@@ -12,5 +12,5 @@ public interface SignService {
      *
      * @param file the file to sign
      */
-    void sign(String userIdentity,MultipartFile file);
+    void sign(String userKey,MultipartFile file);
 }

@@ -165,3 +165,8 @@ digigo.client_secret: ASN9AVKHU6HF41KTU71G3KNXLG1ET7BC
 digigo.base-url: https://ext.digio.in:444
 digigo.sign-url: /v2/client/document/upload
 
+logging:
+  level:
+    root: WARN
+    org.springframework.web.client: DEBUG
+    org.apache.http: DEBUG
