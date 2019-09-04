@@ -159,3 +159,9 @@ jhipster:
 # ===================================================================
 
 # application:
+
+digigo.client-id: AIZ67DUSNZ8TGWJV4DZ7DI3T5Z2LN2W2
+digigo.client_secret: ASN9AVKHU6HF41KTU71G3KNXLG1ET7BC
+digigo.base-url: https://ext.digio.in:444
+digigo.sign-url: /v2/client/document/upload
+
